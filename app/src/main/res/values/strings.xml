@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KaraokeList</string>
+    <string name="input_music_name">Input music name</string>
+</resources>
